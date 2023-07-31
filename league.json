@@ -1,0 +1,26 @@
+﻿[
+    {
+        "league_name": "Premier League",
+        "revenue": "6679920000"
+    },
+    {
+        "league_name": "Bundesliga",
+        "revenue": "4436242576"
+    },
+    {
+        "league_name": "Serie A",
+        "revenue": "3052323900"
+    },
+    {
+        "league_name": "La Liga",
+        "revenue": "5370000000"
+    },
+    {
+        "league_name": "Ligue 1",
+        "revenue": "706000000"
+    },
+    {
+        "league_name": "Saudi Pro League",
+        "revenue": "120000000"
+    }
+]
